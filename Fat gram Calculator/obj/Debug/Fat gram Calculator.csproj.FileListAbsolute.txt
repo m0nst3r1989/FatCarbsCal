@@ -1,0 +1,11 @@
+C:\Users\edgar\source\repos\Fat gram Calculator\bin\Debug\Fat gram Calculator.exe.config
+C:\Users\edgar\source\repos\Fat gram Calculator\bin\Debug\Fat gram Calculator.exe
+C:\Users\edgar\source\repos\Fat gram Calculator\bin\Debug\Fat gram Calculator.pdb
+C:\Users\edgar\source\repos\Fat gram Calculator\obj\Debug\Fat gram Calculator.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\Fat gram Calculator\obj\Debug\Fat gram Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\edgar\source\repos\Fat gram Calculator\obj\Debug\Fat_gram_Calculator.Form1.resources
+C:\Users\edgar\source\repos\Fat gram Calculator\obj\Debug\Fat_gram_Calculator.Properties.Resources.resources
+C:\Users\edgar\source\repos\Fat gram Calculator\obj\Debug\Fat gram Calculator.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\Fat gram Calculator\obj\Debug\Fat gram Calculator.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\Fat gram Calculator\obj\Debug\Fat gram Calculator.exe
+C:\Users\edgar\source\repos\Fat gram Calculator\obj\Debug\Fat gram Calculator.pdb
